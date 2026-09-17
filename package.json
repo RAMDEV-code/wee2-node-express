@@ -1,0 +1,25 @@
+{
+  "name": "wee2-node-express",
+  "version": "1.0.0",
+  "description": "Week 2 API Assignment.",
+  "homepage": "https://github.com/RAMDEV-code/wee2-node-express#readme",
+  "bugs": {
+    "url": "https://github.com/RAMDEV-code/wee2-node-express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAMDEV-code/wee2-node-express.git"
+  },
+  "license": "ISC",
+  "author": "Abdulrahmon",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
