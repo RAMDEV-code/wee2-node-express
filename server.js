@@ -2,7 +2,7 @@
   NOTE:
   I’m had issues with my .env/environment variable setup,
   so I brought the PORT value back into the server directly. 
-  So that i can meet the assignment submission deadline.
+  So as to meet the assignment submission deadline.
 */
 
 // require("dotenv").config();
